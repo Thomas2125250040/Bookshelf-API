@@ -1,0 +1,22 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas2125250040/Bookshelf-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas2125250040/Bookshelf-API/issues"
+  },
+  "homepage": "https://github.com/Thomas2125250040/Bookshelf-API#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
